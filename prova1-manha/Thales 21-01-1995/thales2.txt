@@ -1,0 +1,13 @@
+grepdata.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+prova1-2017.txt~
+prova1-Thales.txt
+prova1-Thales.txt~
+thales1.txt
+Thales 21-01-1995
+thales2.txt
+thales3.txt
